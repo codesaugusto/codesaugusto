@@ -74,7 +74,7 @@ public class CarlosAugusto extends Developer {
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/codesaugusto/codesaugusto/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/codesaugusto/codesaugusto/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/codesaugusto/codesaugusto/output/github-contribution-grid-snake.svg" />
 </picture>
