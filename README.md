@@ -22,7 +22,7 @@ public class CarlosAugusto extends Developer {
     String cargo    = "Desenvolvedor Full Stack";
     String cidade   = "Campo Grande, MS 🇧🇷";
 
-    String[] foco   = { "Java", "Spring Boot", "Next.js", "TypeScript" };
+    String[] foco   = { "Java", "Spring Boot", "TypeScript" };
     String[] aprendendo = { "Arquitetura em Camadas", "Spring Security" };
 
     String missao    = "Transformar ideias em soluções digitais completas.";
