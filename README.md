@@ -63,7 +63,7 @@ public class CarlosAugusto extends Developer {
 
 <br/><br/>
 
-> 🚌 **Sistema de Contratos** — Sistema full-stack containerizado para gerenciamento de contratos com histórico de alterações, notificações automáticas de vencimento, dashboard analytics e exportação de relatórios em PDF/Excel.
+> **Sistema de Contratos** — Sistema full-stack containerizado para gerenciamento de contratos com histórico de alterações, notificações automáticas de vencimento, dashboard analytics e exportação de relatórios em PDF/Excel.
 >
 > `Java 21` · `Spring Boot 4` · `Spring Security + JWT` · `Next.js 16` · `TypeScript` · `PostgreSQL 18` · `Docker`
 
